@@ -1,0 +1,7 @@
+D:\MCSD\Session-04\ForDemo\bin\Debug\ForDemo.exe.config
+D:\MCSD\Session-04\ForDemo\bin\Debug\ForDemo.exe
+D:\MCSD\Session-04\ForDemo\bin\Debug\ForDemo.pdb
+D:\MCSD\Session-04\ForDemo\obj\Debug\ForDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-04\ForDemo\obj\Debug\ForDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-04\ForDemo\obj\Debug\ForDemo.exe
+D:\MCSD\Session-04\ForDemo\obj\Debug\ForDemo.pdb

@@ -15,7 +15,7 @@ namespace ForDemo
             {
                 Console.WriteLine(number);
             }
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }

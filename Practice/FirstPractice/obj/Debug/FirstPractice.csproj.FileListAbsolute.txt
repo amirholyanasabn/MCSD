@@ -1,0 +1,7 @@
+D:\MCSD\Practice\FirstPractice\bin\Debug\FirstPractice.exe.config
+D:\MCSD\Practice\FirstPractice\bin\Debug\FirstPractice.exe
+D:\MCSD\Practice\FirstPractice\bin\Debug\FirstPractice.pdb
+D:\MCSD\Practice\FirstPractice\obj\Debug\FirstPractice.csprojAssemblyReference.cache
+D:\MCSD\Practice\FirstPractice\obj\Debug\FirstPractice.csproj.CoreCompileInputs.cache
+D:\MCSD\Practice\FirstPractice\obj\Debug\FirstPractice.exe
+D:\MCSD\Practice\FirstPractice\obj\Debug\FirstPractice.pdb

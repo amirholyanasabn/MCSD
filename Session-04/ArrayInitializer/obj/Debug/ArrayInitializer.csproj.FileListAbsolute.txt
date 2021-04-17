@@ -1,0 +1,7 @@
+D:\MCSD\Session-04\ArrayInitializer\bin\Debug\ArrayInitializer.exe.config
+D:\MCSD\Session-04\ArrayInitializer\bin\Debug\ArrayInitializer.exe
+D:\MCSD\Session-04\ArrayInitializer\bin\Debug\ArrayInitializer.pdb
+D:\MCSD\Session-04\ArrayInitializer\obj\Debug\ArrayInitializer.csprojAssemblyReference.cache
+D:\MCSD\Session-04\ArrayInitializer\obj\Debug\ArrayInitializer.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-04\ArrayInitializer\obj\Debug\ArrayInitializer.exe
+D:\MCSD\Session-04\ArrayInitializer\obj\Debug\ArrayInitializer.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForDemo", "ForDemo\ForDemo.csproj", "{7C19BAB0-321D-41E9-8D3B-9254653FBF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForFactoialDemo", "ForFactoialDemo\ForFactoialDemo.csproj", "{C99505D4-6F7C-4472-9BAC-6EFD4D832F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{71ECA0D4-C5AC-4991-B449-D86902F6D1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRandomDemo", "ArrayRandomDemo\ArrayRandomDemo.csproj", "{3258D675-3D75-41EB-A8BD-C673472C6991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqeRandomArrayDemo", "UniqeRandomArrayDemo\UniqeRandomArrayDemo.csproj", "{184317AA-6F21-4118-BBD2-5F6B4A0DFA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqeArrayRandomBestWay", "UniqeArrayRandomBestWay\UniqeArrayRandomBestWay.csproj", "{19F38E6C-F9DF-402F-BB4F-4FEF42232B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInitializer", "ArrayInitializer\ArrayInitializer.csproj", "{48E53351-1BFC-48C7-B2A8-F40C0FDA229C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C19BAB0-321D-41E9-8D3B-9254653FBF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C19BAB0-321D-41E9-8D3B-9254653FBF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C19BAB0-321D-41E9-8D3B-9254653FBF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C19BAB0-321D-41E9-8D3B-9254653FBF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99505D4-6F7C-4472-9BAC-6EFD4D832F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99505D4-6F7C-4472-9BAC-6EFD4D832F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99505D4-6F7C-4472-9BAC-6EFD4D832F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99505D4-6F7C-4472-9BAC-6EFD4D832F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71ECA0D4-C5AC-4991-B449-D86902F6D1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71ECA0D4-C5AC-4991-B449-D86902F6D1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71ECA0D4-C5AC-4991-B449-D86902F6D1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71ECA0D4-C5AC-4991-B449-D86902F6D1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3258D675-3D75-41EB-A8BD-C673472C6991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3258D675-3D75-41EB-A8BD-C673472C6991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3258D675-3D75-41EB-A8BD-C673472C6991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3258D675-3D75-41EB-A8BD-C673472C6991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184317AA-6F21-4118-BBD2-5F6B4A0DFA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184317AA-6F21-4118-BBD2-5F6B4A0DFA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184317AA-6F21-4118-BBD2-5F6B4A0DFA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184317AA-6F21-4118-BBD2-5F6B4A0DFA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F38E6C-F9DF-402F-BB4F-4FEF42232B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F38E6C-F9DF-402F-BB4F-4FEF42232B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F38E6C-F9DF-402F-BB4F-4FEF42232B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F38E6C-F9DF-402F-BB4F-4FEF42232B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E53351-1BFC-48C7-B2A8-F40C0FDA229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E53351-1BFC-48C7-B2A8-F40C0FDA229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E53351-1BFC-48C7-B2A8-F40C0FDA229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E53351-1BFC-48C7-B2A8-F40C0FDA229C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5D48DB-FED1-44B3-825E-3DF185B7E9FE}
+	EndGlobalSection
+EndGlobal

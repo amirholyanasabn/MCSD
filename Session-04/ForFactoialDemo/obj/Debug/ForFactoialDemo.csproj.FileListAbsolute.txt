@@ -1,0 +1,6 @@
+D:\MCSD\Session-04\ForFactoialDemo\bin\Debug\ForFactoialDemo.exe.config
+D:\MCSD\Session-04\ForFactoialDemo\bin\Debug\ForFactoialDemo.exe
+D:\MCSD\Session-04\ForFactoialDemo\bin\Debug\ForFactoialDemo.pdb
+D:\MCSD\Session-04\ForFactoialDemo\obj\Debug\ForFactoialDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-04\ForFactoialDemo\obj\Debug\ForFactoialDemo.exe
+D:\MCSD\Session-04\ForFactoialDemo\obj\Debug\ForFactoialDemo.pdb
