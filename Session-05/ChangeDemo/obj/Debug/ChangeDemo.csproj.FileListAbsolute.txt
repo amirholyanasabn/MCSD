@@ -1,0 +1,7 @@
+D:\MCSD\Session-05\ChangeDemo\bin\Debug\ChangeDemo.exe.config
+D:\MCSD\Session-05\ChangeDemo\bin\Debug\ChangeDemo.exe
+D:\MCSD\Session-05\ChangeDemo\bin\Debug\ChangeDemo.pdb
+D:\MCSD\Session-05\ChangeDemo\obj\Debug\ChangeDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-05\ChangeDemo\obj\Debug\ChangeDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-05\ChangeDemo\obj\Debug\ChangeDemo.exe
+D:\MCSD\Session-05\ChangeDemo\obj\Debug\ChangeDemo.pdb

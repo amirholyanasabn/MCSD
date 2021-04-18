@@ -1,0 +1,7 @@
+D:\MCSD\Session-05\ValRefTypeDemo\bin\Debug\ValRefTypeDemo.exe.config
+D:\MCSD\Session-05\ValRefTypeDemo\bin\Debug\ValRefTypeDemo.exe
+D:\MCSD\Session-05\ValRefTypeDemo\bin\Debug\ValRefTypeDemo.pdb
+D:\MCSD\Session-05\ValRefTypeDemo\obj\Debug\ValRefTypeDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-05\ValRefTypeDemo\obj\Debug\ValRefTypeDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-05\ValRefTypeDemo\obj\Debug\ValRefTypeDemo.exe
+D:\MCSD\Session-05\ValRefTypeDemo\obj\Debug\ValRefTypeDemo.pdb

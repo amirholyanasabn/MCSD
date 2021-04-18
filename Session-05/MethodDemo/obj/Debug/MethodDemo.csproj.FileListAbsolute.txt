@@ -1,0 +1,7 @@
+D:\MCSD\Session-05\MethodDemo\bin\Debug\MethodDemo.exe.config
+D:\MCSD\Session-05\MethodDemo\bin\Debug\MethodDemo.exe
+D:\MCSD\Session-05\MethodDemo\bin\Debug\MethodDemo.pdb
+D:\MCSD\Session-05\MethodDemo\obj\Debug\MethodDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-05\MethodDemo\obj\Debug\MethodDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-05\MethodDemo\obj\Debug\MethodDemo.exe
+D:\MCSD\Session-05\MethodDemo\obj\Debug\MethodDemo.pdb

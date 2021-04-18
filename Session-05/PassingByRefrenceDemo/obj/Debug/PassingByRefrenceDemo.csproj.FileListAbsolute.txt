@@ -1,0 +1,7 @@
+D:\MCSD\Session-05\PassingByRefrenceDemo\bin\Debug\PassingByRefrenceDemo.exe.config
+D:\MCSD\Session-05\PassingByRefrenceDemo\bin\Debug\PassingByRefrenceDemo.exe
+D:\MCSD\Session-05\PassingByRefrenceDemo\bin\Debug\PassingByRefrenceDemo.pdb
+D:\MCSD\Session-05\PassingByRefrenceDemo\obj\Debug\PassingByRefrenceDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-05\PassingByRefrenceDemo\obj\Debug\PassingByRefrenceDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-05\PassingByRefrenceDemo\obj\Debug\PassingByRefrenceDemo.exe
+D:\MCSD\Session-05\PassingByRefrenceDemo\obj\Debug\PassingByRefrenceDemo.pdb
