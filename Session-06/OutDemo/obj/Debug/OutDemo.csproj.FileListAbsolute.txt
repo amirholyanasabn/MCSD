@@ -1,0 +1,7 @@
+D:\MCSD\Session-06\OutDemo\bin\Debug\OutDemo.exe.config
+D:\MCSD\Session-06\OutDemo\bin\Debug\OutDemo.exe
+D:\MCSD\Session-06\OutDemo\bin\Debug\OutDemo.pdb
+D:\MCSD\Session-06\OutDemo\obj\Debug\OutDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-06\OutDemo\obj\Debug\OutDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-06\OutDemo\obj\Debug\OutDemo.exe
+D:\MCSD\Session-06\OutDemo\obj\Debug\OutDemo.pdb

@@ -1,0 +1,7 @@
+D:\MCSD\Session-06\TryParseDemo\bin\Debug\TryParseDemo.exe.config
+D:\MCSD\Session-06\TryParseDemo\bin\Debug\TryParseDemo.exe
+D:\MCSD\Session-06\TryParseDemo\bin\Debug\TryParseDemo.pdb
+D:\MCSD\Session-06\TryParseDemo\obj\Debug\TryParseDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-06\TryParseDemo\obj\Debug\TryParseDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-06\TryParseDemo\obj\Debug\TryParseDemo.exe
+D:\MCSD\Session-06\TryParseDemo\obj\Debug\TryParseDemo.pdb
