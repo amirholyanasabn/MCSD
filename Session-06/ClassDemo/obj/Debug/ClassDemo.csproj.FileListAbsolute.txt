@@ -1,0 +1,7 @@
+D:\MCSD\Session-06\ClassDemo\bin\Debug\ClassDemo.exe.config
+D:\MCSD\Session-06\ClassDemo\bin\Debug\ClassDemo.exe
+D:\MCSD\Session-06\ClassDemo\bin\Debug\ClassDemo.pdb
+D:\MCSD\Session-06\ClassDemo\obj\Debug\ClassDemo.csprojAssemblyReference.cache
+D:\MCSD\Session-06\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Session-06\ClassDemo\obj\Debug\ClassDemo.exe
+D:\MCSD\Session-06\ClassDemo\obj\Debug\ClassDemo.pdb
