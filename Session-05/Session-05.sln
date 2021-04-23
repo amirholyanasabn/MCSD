@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeDemo", "ChangeDemo\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingByRefrenceDemo", "PassingByRefrenceDemo\PassingByRefrenceDemo.csproj", "{0D02CA8D-0EE6-4194-A634-D551F75FBA29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrayDemo", "DynamicArrayDemo\DynamicArrayDemo.csproj", "{CF0D6EDB-C96E-4B4E-BCDC-60E812774C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0D02CA8D-0EE6-4194-A634-D551F75FBA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D02CA8D-0EE6-4194-A634-D551F75FBA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D02CA8D-0EE6-4194-A634-D551F75FBA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0D6EDB-C96E-4B4E-BCDC-60E812774C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0D6EDB-C96E-4B4E-BCDC-60E812774C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0D6EDB-C96E-4B4E-BCDC-60E812774C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0D6EDB-C96E-4B4E-BCDC-60E812774C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
