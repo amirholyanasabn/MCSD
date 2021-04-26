@@ -1,0 +1,7 @@
+D:\MCSD\ContactClassDemo\ContactClassDemo\bin\Debug\ContactClassDemo.exe.config
+D:\MCSD\ContactClassDemo\ContactClassDemo\bin\Debug\ContactClassDemo.exe
+D:\MCSD\ContactClassDemo\ContactClassDemo\bin\Debug\ContactClassDemo.pdb
+D:\MCSD\ContactClassDemo\ContactClassDemo\obj\Debug\ContactClassDemo.csprojAssemblyReference.cache
+D:\MCSD\ContactClassDemo\ContactClassDemo\obj\Debug\ContactClassDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\ContactClassDemo\ContactClassDemo\obj\Debug\ContactClassDemo.exe
+D:\MCSD\ContactClassDemo\ContactClassDemo\obj\Debug\ContactClassDemo.pdb
