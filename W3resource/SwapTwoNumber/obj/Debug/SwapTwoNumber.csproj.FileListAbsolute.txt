@@ -1,0 +1,6 @@
+D:\MCSD\W3resource\SwapTwoNumber\bin\Debug\SwapTwoNumber.exe.config
+D:\MCSD\W3resource\SwapTwoNumber\bin\Debug\SwapTwoNumber.exe
+D:\MCSD\W3resource\SwapTwoNumber\bin\Debug\SwapTwoNumber.pdb
+D:\MCSD\W3resource\SwapTwoNumber\obj\Debug\SwapTwoNumber.csproj.CoreCompileInputs.cache
+D:\MCSD\W3resource\SwapTwoNumber\obj\Debug\SwapTwoNumber.exe
+D:\MCSD\W3resource\SwapTwoNumber\obj\Debug\SwapTwoNumber.pdb

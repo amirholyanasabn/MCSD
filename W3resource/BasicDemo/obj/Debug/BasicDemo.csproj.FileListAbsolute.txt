@@ -1,0 +1,7 @@
+D:\MCSD\W3resource\BasicDemo\bin\Debug\BasicDemo.exe.config
+D:\MCSD\W3resource\BasicDemo\bin\Debug\BasicDemo.exe
+D:\MCSD\W3resource\BasicDemo\bin\Debug\BasicDemo.pdb
+D:\MCSD\W3resource\BasicDemo\obj\Debug\BasicDemo.csprojAssemblyReference.cache
+D:\MCSD\W3resource\BasicDemo\obj\Debug\BasicDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\W3resource\BasicDemo\obj\Debug\BasicDemo.exe
+D:\MCSD\W3resource\BasicDemo\obj\Debug\BasicDemo.pdb

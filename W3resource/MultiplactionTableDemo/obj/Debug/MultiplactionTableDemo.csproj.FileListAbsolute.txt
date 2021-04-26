@@ -1,0 +1,6 @@
+D:\MCSD\W3resource\MultiplactionTableDemo\bin\Debug\MultiplactionTableDemo.exe.config
+D:\MCSD\W3resource\MultiplactionTableDemo\bin\Debug\MultiplactionTableDemo.exe
+D:\MCSD\W3resource\MultiplactionTableDemo\bin\Debug\MultiplactionTableDemo.pdb
+D:\MCSD\W3resource\MultiplactionTableDemo\obj\Debug\MultiplactionTableDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\W3resource\MultiplactionTableDemo\obj\Debug\MultiplactionTableDemo.exe
+D:\MCSD\W3resource\MultiplactionTableDemo\obj\Debug\MultiplactionTableDemo.pdb

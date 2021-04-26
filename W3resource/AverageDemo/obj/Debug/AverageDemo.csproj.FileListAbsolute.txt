@@ -1,0 +1,6 @@
+D:\MCSD\W3resource\AverageDemo\bin\Debug\AverageDemo.exe.config
+D:\MCSD\W3resource\AverageDemo\bin\Debug\AverageDemo.exe
+D:\MCSD\W3resource\AverageDemo\bin\Debug\AverageDemo.pdb
+D:\MCSD\W3resource\AverageDemo\obj\Debug\AverageDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\W3resource\AverageDemo\obj\Debug\AverageDemo.exe
+D:\MCSD\W3resource\AverageDemo\obj\Debug\AverageDemo.pdb
