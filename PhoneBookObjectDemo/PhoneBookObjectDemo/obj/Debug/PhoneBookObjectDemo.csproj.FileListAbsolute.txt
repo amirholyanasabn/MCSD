@@ -1,0 +1,7 @@
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\bin\Debug\PhoneBookObjectDemo.exe.config
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\bin\Debug\PhoneBookObjectDemo.exe
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\bin\Debug\PhoneBookObjectDemo.pdb
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\obj\Debug\PhoneBookObjectDemo.csprojAssemblyReference.cache
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\obj\Debug\PhoneBookObjectDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\obj\Debug\PhoneBookObjectDemo.exe
+D:\MCSD\PhoneBookObjectDemo\PhoneBookObjectDemo\obj\Debug\PhoneBookObjectDemo.pdb
